@@ -17,6 +17,8 @@ Het niet gebruiken van afk. is vanzelfsprekend, wanneer je hier enigszins bij na
 ## Kleine methods / classes
 Zie `Block depth`, `Geen else`, `Wrappers` en `Niet meer dan 2 instantievariabelen`.
 
+Daarbij is een methode "klein" wanneer deze een enkele verantwoordelijkheid heeft - NIET meer.
+
 ## Niet meer dan 2 instantievariabelen
 Ook dit zorgt ervoor dat de programmeur goed nadenkt bij het aanmaken van een specifieke klasse - en dat deze relatief compact blijft.
 
