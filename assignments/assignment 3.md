@@ -1,4 +1,4 @@
-# Manual deplay via GlassFish (Payara)
+# Manual deploy via GlassFish (Payara)
 
 1. Start Payara
 2. Under `Applications`, click `Deploy`.
